@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🔭 Currently, I am on sabbatical looking for new challenges after years in consulting and fintech. I'm enjoying my time "never graduating" at Recurse Center, I am also working for mc-stan this summer on benchmarking Bayesian models.  
+### Hi there, my name is Keane 👋
+- 🔭 Currently, I'm on sabbatical looking for new challenges after spending years in consulting and fintech. I'm enjoying my time "never graduating" at Recurse Center, I'm also working for mc-stan this summer on benchmarking Bayesian models.  
 - 🌱 I’m currently learning Stan, JAX, Spark.
 - 👯 I’m looking to collaborate on machine learning projects, especially on sequential data problems. 
 - 😄 Pronouns: he/him
